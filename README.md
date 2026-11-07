@@ -1,19 +1,11 @@
-### Hi there 👋
-**[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack60612&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)**
-### Vires In Numeris   
+# Jack Nelson
 
+I’m an Electrical and Computer Engineering student at Carnegie Mellon University (B.S. 2029, Robotics minor). I build software for devices, infrastructure, and systems that have to recover cleanly when things go wrong.
 
-<!--
-**jack60612/jack60612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Peak POS:** Founder and CTO. I lead the payments gateway, POS and Android terminal integrations, cloud infrastructure, and security work. I designed recovery for ambiguous payment outcomes and led technical work for PCI and four card-network certifications.
+- **CMU Robotics Institute:** Robotics & ML researcher in the FARM Lab. I led the Foxglove operator interface for Erwin, an orchard robot built by the Fire Blighters team, and now work on Plant simulation performance and accuracy for reinforcement learning. The team earned the 2026 Farm Robotics Challenge Amiga Innovation Award.
+- **Chia:** Software engineer intern working on wallet CLI/RPC tools, full-node synchronization, DNS seeder services, and typed Rust CLVM errors. See the [wallet tooling contribution](https://github.com/Chia-Network/chia-blockchain/pull/13325).
 
-Here are some ideas to get you started:
+I’m looking for **Summer 2027 internships in robotics and systems software**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://jackn.org) · [Resume](https://jackn.org/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/ajacknelson/) · [Email](mailto:jack@jackn.org)
